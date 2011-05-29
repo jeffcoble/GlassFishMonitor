@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : config.xml
+    Created on : June 3, 2011, 9:38 PM
+    Author     : jcoble70
+    Description:
+        Purpose of the document follows.
+-->
+
+<config>
+  <baseURL>http://localhost:4848</baseURL>
+  <pollingrate>5000</pollingrate>
+  <responsewaittime>10000</responsewaittime>
+</config>

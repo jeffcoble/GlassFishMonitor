@@ -1,0 +1,6 @@
+org.engineeringnotebook.glassfishmonitor
+org.engineeringnotebook.glassfishmonitor.client
+org.engineeringnotebook.glassfishmonitor.cluster
+org.engineeringnotebook.glassfishmonitor.instance
+org.engineeringnotebook.glassfishmonitor.status
+org.engineeringnotebook.glassfishmonitor.util
